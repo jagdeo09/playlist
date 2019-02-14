@@ -1,5 +1,10 @@
 h1 {
     text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+p{
+    font-family: 'Major Mono Display', monospace;
 }
 
 #cart {
@@ -58,6 +63,7 @@ h1 {
 input {
     padding: 5px 10px;
     font-size: 14px;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
